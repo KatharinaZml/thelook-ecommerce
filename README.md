@@ -60,7 +60,7 @@ All queries are written in standard SQL against BigQuery's public dataset. Query
 - [Overall Conclusion](#overall-conclusion)
 - [1. What your results actually mean (clean interpretation layer)](#1-what-your-results-actually-mean-clean-interpretation-layer)
 - [2. What you did well (analytical maturity signals)](#2-what-you-did-well-analytical-maturity-signals)
-- [4. Next steps (VERY IMPORTANT)](#4-next-steps-very-important)
+- [4. Next steps](#4-next-steps-very-important)
 - [5. Your current level (honest assessment)](#5-your-current-level-honest-assessment)
 - [6. What you should do next (clear roadmap)](#6-what-you-should-do-next-clear-roadmap)
 - [6. Churn Analysis](#6-churn-analysis)
@@ -5089,14 +5089,3 @@ implementing the treatment based on conversion outcomes alone.
 
 - The test is based on historical ecommerce data and represents a
     > simulated experiment rather than a real production A/B test.
-
-Der wichtigste Gedanke:
-
-**A/B Testing = randomisierte Kausalität**
-
-**Matching = beobachtete Daten → wir versuchen Randomisierung
-nachzubauen**
-
-Causal Inference
-
-ML Segmentation
